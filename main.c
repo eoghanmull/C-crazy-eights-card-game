@@ -19,7 +19,7 @@ int main(int argc, char **argv) {
   //prints out the welcome block
   printf("\n  *-------------------------------------------------------------------------*\n");
   printf("  * Hello! Welcome to our card game       ♦ ♥ ♣ ♠                           *\n");
-  printf("  * This game was developed by Ciaran, Eoghan, Joe and Ryan                 *\n");
+  printf("  * This game was developed by Ciaran and Eoghan                 *\n");
   printf("  * ------------------------------------------------------------------------*\n\n");
 
   //displays the cards ascii art from ascii.txt
