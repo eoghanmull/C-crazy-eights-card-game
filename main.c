@@ -8,8 +8,6 @@
 * 
 * AUTHORS :    Ciarán O' Mara
 *              Eoghan Mulcahy
-*              Ryan Jennings
-*              Joe Buckley
 *
 * Last Date of Modification: 25/11/16
 ******************************************************************************/
