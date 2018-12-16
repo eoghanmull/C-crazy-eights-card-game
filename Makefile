@@ -6,8 +6,6 @@
 # Authors:
 #	Eoghan Mulcahy
 #	Ciarán O' Mara
-#	Ryan Jennings
-#	Joe Buckley
 # Last change of date: 22/12/2016
 
 # Variables comp, exec, db and mem
